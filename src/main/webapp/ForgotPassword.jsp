@@ -8,9 +8,10 @@
 </head>
 <body>
 <br>
+<center>
 <a href=HomePage.jsp style="color:black;text-decoration:none ;font-size:35px;font-weight:bold;">FlyAway</a>
 <br><br>
-<center>
+
 <div style="border:3px solid black;width:25%;border-radius:20px;padding:20px" align="center">
 <form action=ForgotPassword method=post>
 	<label for=email>Email :-</label> <input type="email" name=email id=email /><br><br>
